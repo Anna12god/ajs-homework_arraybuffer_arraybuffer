@@ -1,0 +1,2 @@
+# ajs-homework-arraybuffer-arraybuffer
+[![Build status](https://ci.appveyor.com/api/projects/status/dafd8aaqibcysn97?svg=true)](https://ci.appveyor.com/project/Anna12god/ajs-homework-arraybuffer-arraybuffer)
